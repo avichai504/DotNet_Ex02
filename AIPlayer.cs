@@ -4,9 +4,9 @@
     {
         // AI-specific attributes
 
-        public override void MakeMove(Board board)
-        {
+        //public override void MakeMove(Board board)
+        //{
             // Override with AI logic for making a move
-        }
+        //}
     }
 }
