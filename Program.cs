@@ -11,6 +11,7 @@ namespace A24_Ex02_NeomiBashari_207087487_AvichaiGalOr_207051848
             Game game = new Game();
             game.Start();
             Console.ReadKey();
+            // Hi Neomi !
         }
     }
 }
